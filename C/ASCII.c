@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    char temp;
+    char p;
     printf("\n Enter :");
-    scanf("%c",&temp);
-    printf("\nASCII value : %d",temp);
+    scanf("%c",&p);
+    printf("\nASCII value : %d",p);
     return 0;
 }
